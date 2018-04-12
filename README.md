@@ -4,7 +4,14 @@ Liste Exercice :
 2. Scrapper Crypto
 3. Scraper Incubateurs
 
+## Gem requise :
+https://github.com/sparklemotion/nokogiri
 
+J'ai un Gemfile. Il se peut que vous deviez faire un 
+```
+bundle install
+```
+une fois le dossier DL sur votre PC. Si un problème please PM me !
 
 ## Pré-requis
 
@@ -15,15 +22,6 @@ Pour pouvoir visualiser le projet, un simple navigateur suffit.
 ```
 Firefox, Safari, Chrome, Internet Explorer 8, ...
 ```
-
-###Gem requise :
-https://github.com/sparklemotion/nokogiri
-
-J'ai un Gemfile. Il se peut que vous deviez faire un 
-```
-bundle install
-```
-une fois le dossier DL sur votre PC. Si un problème please PM me !
 
 ## Construit avec
 
